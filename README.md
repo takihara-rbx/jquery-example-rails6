@@ -1,5 +1,7 @@
 ## jquery-example-rails6
-rails6で、`jquery`を`Gemfile`、`bundle`でインストールする。
+rails6で、`jquery`を`Gemfile`、`bundle`でインストールする。</br>
+※ 今回は`Bootstrap`は導入してないです。
+
 
 ### 手順0
 
@@ -100,3 +102,10 @@ $(function(){
 下の文字が赤色になったらjqueryの読み込みが成功した。
 
 ![img](https://github.com/takihara-rbx/jquery-example-rails6/blob/master/reference/readme_image.png)
+
+
+### 参考文献
+- [Rails 6にjQueryとBootstrapを入れる](https://qiita.com/kazutosato/items/d47b7705ee545de4cb1a)
+- [RailsでjQueryを使えるようにする方法](https://qiita.com/ngron/items/95846bd630a723e00038)
+
+※ 今回は`Bootstrap`は導入してないです。
